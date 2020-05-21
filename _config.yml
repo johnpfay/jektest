@@ -30,7 +30,7 @@ github_username:  johnpfay
 # Build settings
 #theme: minima
 #theme: jekyll-theme-merlot
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-architect
 
 plugins:
   - jekyll-feed
