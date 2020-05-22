@@ -73,7 +73,7 @@ author:
       url: "https://www.linkedin.com/in/john-fay-b257905"
     - label: "Google Scholar"
       icon: "ai ai-google-scholar-square ai-3x"
-      url: "https://scholar.google.com/citations?user=rLfuKUYAAAAJ&hl=en&oi=sra"
+      url: "fab fa-fw fa-google"
     - label: "ResearchGate"
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/John_Fay3"
@@ -87,11 +87,12 @@ footer:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/john-fay-b257905"
     - label: "Google Scholar"
-      icon: "ai ai-google-scholar-square ai-3x"
+      icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/citations?user=rLfuKUYAAAAJ&hl=en&oi=sra"
     - label: "ResearchGate"
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/John_Fay3"
+      
 defaults:
   # _posts
   - scope:
@@ -100,7 +101,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: true
       share: true
       related: true
