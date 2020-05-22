@@ -24,12 +24,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   Instructor at the Nicholas School of the Environment
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://scholars.duke.edu/person/john.fay" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
 github_username:  johnpfay
 
 # Build settings
-#theme: minima
-#theme: jekyll-theme-merlot
 theme: jekyll-theme-architect
 
 plugins:
